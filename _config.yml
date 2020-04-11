@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Nicholas Wogan"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/bio_im.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Research Portfolio"
   location         : "Seattle"
   email            :
