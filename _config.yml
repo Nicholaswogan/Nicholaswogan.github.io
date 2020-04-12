@@ -34,7 +34,6 @@ defaults:
       path: ""
     values:
       layout: default
-      header_image: empty
 
   # - scope:
   #     path: ""
