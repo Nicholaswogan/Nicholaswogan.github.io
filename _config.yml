@@ -35,11 +35,11 @@ defaults:
     values:
       layout: default
 
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: default_1
+  # - scope:
+  #     path: ""
+  #     type: pages
+  #   values:
+  #     layout: default_1
 
 # Build settings
 markdown: kramdown
