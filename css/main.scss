@@ -9,7 +9,7 @@ $text-color:#111 !default;
 $headings-color: #111;
 $background-color: #fdfdfd !default;
 
-/* font base */ 
+/* font base */
 @font-face {
   font-family: 'Noto Sans';
   src:  url('fonts/notosans-regular-webfont.woff') format('woff');
@@ -34,7 +34,7 @@ $grey-color-light: lighten($grey-color, 40%) !default;
 $grey-color-dark:  darken($grey-color, 25%) !default;
 
 // Width of the content area
-$content-width:    800px !default;
+$content-width:    1000px !default;
 
 $on-palm:          600px !default;
 $on-laptop:        800px !default;
