@@ -1,5 +1,6 @@
 ---
 title: Home
+layout: home_layout
 ---
 <!-- <img src="{{ 'images/Kbasin.jpg' | absolute_url }}" alt="{{ page.title | default: site.title | default: site.github.repository_name }}" class="project-name" style="margin-left: auto;margin-right: auto;display: block;width:100%;max-width:1200px;" /> -->
 <div>
