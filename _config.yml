@@ -23,7 +23,7 @@ repo: "https://github.com/Nicholaswogan/Nicholaswogan.github.io"
 # your gh-pages url: https://username.github.io
 url: https://nicholaswogan.github.io/
 # your repository name: /repository
-baseurl: /
+baseurl: 
 
 # analytics if desired (and use environment variable on build command)
 # google_analytics: UA-74844011-1
