@@ -1,9 +1,15 @@
 ---
+layout: page
 title: About
 ---
 
-# About this project
+This is an about page about this awesome site.
+Hope you love it!
 
-In a word: **Awesome!**
+Reasons:
+- its great.
+- its a test.
 
-See the [Home page](/)
+## Other thoughts
+
+This is great.
