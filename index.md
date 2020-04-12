@@ -5,7 +5,6 @@ title: Home
 <div>
     <img src="{{ 'images/bio_im.jpg' | absolute_url }}" style="float:right;width:40%">
 </div>
-# Hello!
 
 I am a research graduate student in the [Earth and Space Sciences Department](https://www.ess.washington.edu/) at the University of Washington. I study planetary science and astrobiology.
 
