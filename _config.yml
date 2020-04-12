@@ -12,8 +12,8 @@ title: Nicholas Wogan
 # keywords: "github, github-pages, websites, static gen, hosting, html, workshop, gh-pages"
 
 # author settings for cc-by
-author: Nicholas Wogan
-pub_year: 2020
+# author: Nicholas Wogan
+# pub_year: 2020
 github_username: nicholaswogan
 
 # add the full url for the github repository
@@ -21,9 +21,9 @@ repo: "https://github.com/Nicholaswogan/Nicholaswogan.github.io"
 
 # urls
 # your gh-pages url: https://username.github.io
-url: https://nicholaswogan.github.io/
+# url: https://nicholaswogan.github.io/
 # your repository name: /repository
-baseurl: 
+# baseurl:
 
 # analytics if desired (and use environment variable on build command)
 # google_analytics: UA-74844011-1
