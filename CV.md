@@ -1,7 +1,6 @@
 ---
 title: CV
 nav: true
+layout: CV
 ---
-<p>{{ layout.city }}</p>
-
 # Post my CV here
