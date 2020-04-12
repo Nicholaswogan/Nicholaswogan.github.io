@@ -1,6 +1,6 @@
 ---
 title: CV
 nav: true
-layout: CV
+layout: add_pic
 ---
 # Post my CV here

@@ -1,5 +1,6 @@
 ---
 title: Home
+layout: add_pic
 ---
 
 <div>
