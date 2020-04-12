@@ -1,33 +1,32 @@
-# workshop-template https://github.com/evanwill/workshop-template
 # A Jekyll template for a simple workshop website, designed for github-pages,
 # based on Minima theme https://github.com/jekyll/minima
 
-# Notes: 
+# Notes:
 # - fig include, {% include figure.html file="my-cat.jpg" alt="cat" caption="My cat" width="50%" %}
 # - pages with "nav: true" in front matter will be in header nav
 # - use environment variable on build command to include analytics: JEKYLL_ENV=production jekyll build
 
 # site settings
-title: go-go gh-pages!
-description: "Learn about GitHub pages and Jekyll."
-keywords: "github, github-pages, websites, static gen, hosting, html, workshop, gh-pages"
+title: Nicholas Wogan
+# description: "Research Portfolio"
+# keywords: "github, github-pages, websites, static gen, hosting, html, workshop, gh-pages"
 
 # author settings for cc-by
-author: evan will
-pub_year: 2018
-github_username: evanwill
+author: Nicholas Wogan
+pub_year: 2020
+github_username: nicholaswogan
 
 # add the full url for the github repository
-repo: "https://github.com/evanwill/go-go-ghpages"
+repo: "https://github.com/Nicholaswogan/Nicholaswogan.github.io"
 
 # urls
 # your gh-pages url: https://username.github.io
-url: https://evanwill.github.io
+url: https://nicholaswogan.github.io/
 # your repository name: /repository
-baseurl: /go-go-ghpages
+baseurl: /
 
 # analytics if desired (and use environment variable on build command)
-google_analytics: UA-74844011-1
+# google_analytics: UA-74844011-1
 
 # defaults (to simplify front matter)
 defaults:
