@@ -1,7 +1,7 @@
 ---
 title: Home
-layout: add_pic
 ---
+<img src="{{ 'images/Kbasin.jpg' | absolute_url }}" alt="{{ page.title | default: site.title | default: site.github.repository_name }}" class="project-name" style="margin-left: auto;margin-right: auto;display: block;width:100%;max-width:1200px;" />
 
 <div>
     <img src="{{ 'images/bio_im.jpg' | absolute_url }}" style="float:right;width:40%">
