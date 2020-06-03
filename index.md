@@ -9,5 +9,5 @@ layout: home_layout
 
 I am a research graduate student in the [Earth and Space Sciences Department](https://www.ess.washington.edu/) at the University of Washington. I study planetary science and astrobiology.
 
-Email: wogan@uw.edu \
+Email: wogan@uw.edu  
 Github: [https://github.com/Nicholaswogan](https://github.com/Nicholaswogan)
