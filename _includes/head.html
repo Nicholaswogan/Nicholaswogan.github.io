@@ -17,6 +17,7 @@
   <script type="application/ld+json">{"@context":"http://schema.org","@type":"WebPage","headline":"{% if page.title %}{{ page.title | escape }} | {% endif %}{{ site.title | escape }}","author":{"@type":"Person","name":"{{ site.author }}"},"description":"{{ site.description }}","url":"{{ page.url | absolute_url }}"}</script>
 
   <link rel="stylesheet" href="{{ '/css/main.css' | absolute_url }}">
-  
+  <link href="/css/syntax.css" rel="stylesheet">
+
   {% include google-analytics.html %}
 </head>
