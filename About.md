@@ -1,5 +1,5 @@
-dev---
+!---
+layout: page_nohead
 title: About
-nav: true
-dev---
-# Write about page here
+permalink: /about/
+!---

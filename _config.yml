@@ -1,46 +1,55 @@
-# A Jekyll template for a simple workshop website, designed for github-pages,
-# based on Minima theme https://github.com/jekyll/minima
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you:
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
 
-# Notes:
-# - fig include, {% include figure.html file="my-cat.jpg" alt="cat" caption="My cat" width="50%" %}
-# - pages with "nav: true" in front matter will be in header nav
-# - use environment variable on build command to include analytics: JEKYLL_ENV=production jekyll build
-
-# site settings
 title: Nicholas Wogan
-# description: "Research Portfolio"
-# keywords: "github, github-pages, websites, static gen, hosting, html, workshop, gh-pages"
-
-# author settings for cc-by
-# author: Nicholas Wogan
-# pub_year: 2020
-github_username: nicholaswogan
-
-# add the full url for the github repository
-repo: "https://github.com/Nicholaswogan/Nicholaswogan.github.io"
-
-# urls
-# your gh-pages url: https://username.github.io
-# url: https://nicholaswogan.github.io/
-# your repository name: /repository
-# baseurl:
-
-# analytics if desired (and use environment variable on build command)
-# google_analytics: UA-74844011-1
-
-# defaults (to simplify front matter)
-# defaults:
-#   - scope:
-#       path: ""
-#     values:
-#       layout: default
-
-  # - scope:
-  #     path: ""
-  #     type: pages
-  #   values:
-  #     layout: default_1
+email: your-email@example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  Nicholaswogan
 
 # Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+minima:
+  skin: dark
+
 markdown: kramdown
-highlighter: rouge
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
