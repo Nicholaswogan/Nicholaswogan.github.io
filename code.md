@@ -8,6 +8,9 @@ title: Code
 [**PhotochemPy**](https://github.com/Nicholaswogan/PhotochemPy)<br />
 A photochemical-climate model of planet's atmospheres. Given inputs, like the stellar UV flux, the atmospheric temperature structure, etc., this code will find the steady-state chemical composition of an atmosphere, or evolve atmospheres through time. PhotochemPy is [published in a paper](https://doi.org/10.1073/pnas.2205618119) about the rise of oxygen in Earth's atmosphere.
 
+[**VolcGases**](https://github.com/Nicholaswogan/VolcGases)<br />
+A Python wrapper to a Fortran program that calculates the gases produced by a volcano. The code was is [published in a paper](https://doi.org/DOI:10.3847/PSJ/abb99e) about whether volcanos on exoplanets can make methane or not.
+
 [**numbalsoda**](https://github.com/Nicholaswogan/numblsoda)<br />
 A Python package for solving oridinary differential equation initial value problems. The package leverages [numba](https://numba.pydata.org/) to achieve computation speeds as fast as C, and is [>10 times faster than Scipy](https://github.com/Nicholaswogan/numblsoda/tree/main/benchmark).
 
