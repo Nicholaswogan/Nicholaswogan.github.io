@@ -8,7 +8,7 @@ layout: default
 
 **Nicholas Wogan**, David Catling, Kevin Zahnle, and Mark Claire (2022). Rapid timescale for an oxic transition during the Great Oxidation Event and the instability of low atmospheric O$_2$. *Proceedings of the National Academy of Sciences*. [DOI:10.1073/pnas.2205618119](https://doi.org/10.1073/pnas.2205618119)
 
-Maggie Thompson, Joshua Krissansen-Totton, **Nicholas Wogan**, Myriam Telus, and Jonathan J Fortney (2022). The case and context for atmospheric methane as an exoplanet biosignature. *Proceedings of the National Academy of Sciences*. [DOI:10.1073/pnas.2117933119](https://doi.org/10.1073/pnas.2117933119)
+Maggie Thompson, Joshua Krissansen-Totton, **Nicholas Wogan**, Myriam Telus, and Jonathan Fortney (2022). The case and context for atmospheric methane as an exoplanet biosignature. *Proceedings of the National Academy of Sciences*. [DOI:10.1073/pnas.2117933119](https://doi.org/10.1073/pnas.2117933119)
 
 Joshua Krissansen-Totton, Max Galloway, **Nicholas Wogan**, Jasmeet Dhaliwal, and Jonathan Fortney (2021). Waterworlds Probably Do Not Experience Magmatic Outgassing. *The Astrophysical Journal*. [DOI:10.3847/1538-4357/abf560](https://doi.org/10.3847/1538-4357/abf560).
 
