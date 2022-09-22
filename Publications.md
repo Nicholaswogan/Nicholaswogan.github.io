@@ -6,9 +6,13 @@ layout: default
 
 # Peer-Reviewed Publications
 
-Joshua Krissansen-Totton, Max Galloway, **Nicholas Wogan**, Jasmeet Dhaliwal, Jonathan Fortney (2021). Waterworlds Probably Do Not Experience Magmatic Outgassing. *The Astrophysical Journal*. [DOI:10.3847/1538-4357/abf560](https://doi.org/10.3847/1538-4357/abf560).
+**Nicholas Wogan**, David Catling, Kevin Zahnle, and Mark Claire (2022). Rapid timescale for an oxic transition during the Great Oxidation Event and the instability of low atmospheric O$_2$. *Proceedings of the National Academy of Sciences*. [DOI:10.1073/pnas.2205618119](https://doi.org/10.1073/pnas.2205618119)
 
-Joshua Krissansen-Totton, Jonathan Fortney, Francis Nimmo, **Nicholas Wogan** (2021). Oxygen False Positives on Habitable Zone Planets Around Sun‐Like Stars. *AGU Advances*. [DOI:10.1029/2020AV000294](http://doi.org/10.1029/2020AV000294).
+Maggie Thompson, Joshua Krissansen-Totton, **Nicholas Wogan**, Myriam Telus, and Jonathan J Fortney (2022). The case and context for atmospheric methane as an exoplanet biosignature. *Proceedings of the National Academy of Sciences*. [DOI:10.1073/pnas.2117933119](https://doi.org/10.1073/pnas.2117933119)
+
+Joshua Krissansen-Totton, Max Galloway, **Nicholas Wogan**, Jasmeet Dhaliwal, and Jonathan Fortney (2021). Waterworlds Probably Do Not Experience Magmatic Outgassing. *The Astrophysical Journal*. [DOI:10.3847/1538-4357/abf560](https://doi.org/10.3847/1538-4357/abf560).
+
+Joshua Krissansen-Totton, Jonathan Fortney, and Francis Nimmo, and **Nicholas Wogan** (2021). Oxygen False Positives on Habitable Zone Planets Around Sun‐Like Stars. *AGU Advances*. [DOI:10.1029/2020AV000294](http://doi.org/10.1029/2020AV000294).
 
 **Nicholas Wogan**, Joshua Krissansen-Totton and David Catling (2020). Abundant Atmospheric Methane from Volcanism on Terrestrial Planets Is Unlikely and Strengthens the Case for Methane as a Biosignature. *The Planetary Science Journal*. [DOI:10.3847/PSJ/abb99e](https://doi.org/DOI:10.3847/PSJ/abb99e).
 

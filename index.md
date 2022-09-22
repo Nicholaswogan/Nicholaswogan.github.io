@@ -1,7 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default
 ---
 <div>
@@ -12,4 +9,4 @@ I am a research graduate student in the [Earth and Space Sciences Department](ht
 
 Email: wogan@uw.edu  
 Github: [https://github.com/Nicholaswogan](https://github.com/Nicholaswogan)  
-CV: [click here]({{ site.url }}/files/Wogan_Nicholas_CV.pdf)  
+CV: [click here]({{ site.url }}/files/Wogan_Nicholas_CV_v0.1.2.pdf)  
