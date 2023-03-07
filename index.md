@@ -9,4 +9,4 @@ I am a research graduate student in the [Earth and Space Sciences Department](ht
 
 Email: wogan@uw.edu  
 Github: [https://github.com/Nicholaswogan](https://github.com/Nicholaswogan)  
-CV: [click here]({{ site.url }}/files/Wogan_Nicholas_CV_v0.1.3.pdf)  
+CV: [click here]({{ site.url }}/files/Wogan_Nicholas_CV_v0.1.4.pdf)  
