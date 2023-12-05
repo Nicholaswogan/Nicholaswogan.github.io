@@ -6,7 +6,7 @@ layout: default
 
 # Peer-Reviewed Publications
 
-**Nicholas Wogan**, David Catling, Kevin Zahnle, Roxana Lupu (2023). Origin of Life Molecules in the Atmosphere After Big Impacts on the Early Earth. *Submitted to Planetary Science Journal*.
+**Nicholas Wogan**, David Catling, Kevin Zahnle, Roxana Lupu (2023). Origin of life molecules in the atmosphere after big impacts on the early Earth. *Planetary Science Journal*. [DOI:10.3847/PSJ/aced83](https://doi.org/10.3847/PSJ/aced83).
 
 Zachary Cohen, Zoe Todd, **Nicholas Wogan**, Roy Black, Sarah Keller, David Catling (2023). Plausible sources of membrane-forming fatty acids on the early Earth: a review of the literature and an estimation of amounts. *ACS Earth and Space Chemistry*. [DOI:10.1021/acsearthspacechem.2c00168](https://doi.org/10.1021/acsearthspacechem.2c00168).
 
