@@ -6,6 +6,10 @@ layout: default
 
 # Peer-Reviewed Publications
 
+**Nicholas Wogan**, Natasha Batalha, Kevin Zahnle, Joshua Krissansen-Totton, Shang-Min Tsai, and Renyu Hu (2024). JWST observations of K2-18b can be explained by a gas-rich mini-Neptune with no habitable surface. *Astrophysical Journal Letters*. [DOI:10.3847/2041-8213/ad2616](https://doi.org/10.3847/2041-8213/ad2616).
+
+Zoe Todd, **Nicholas Wogan**, and David Catling (2024). Environmental influences on the formation of ferrocyanide and implications for prebiotic chemistry. *ACS Earth and Space Chemistry*. [DOI:10.1021/acsearthspacechem.3c00213](https://doi.org/10.1021/acsearthspacechem.3c00213).
+
 **Nicholas Wogan**, David Catling, Kevin Zahnle, Roxana Lupu (2023). Origin of life molecules in the atmosphere after big impacts on the early Earth. *Planetary Science Journal*. [DOI:10.3847/PSJ/aced83](https://doi.org/10.3847/PSJ/aced83).
 
 Zachary Cohen, Zoe Todd, **Nicholas Wogan**, Roy Black, Sarah Keller, David Catling (2023). Plausible sources of membrane-forming fatty acids on the early Earth: a review of the literature and an estimation of amounts. *ACS Earth and Space Chemistry*. [DOI:10.1021/acsearthspacechem.2c00168](https://doi.org/10.1021/acsearthspacechem.2c00168).
@@ -24,4 +28,3 @@ Kevin Zahnle, Roxana Lupu, David Catling, and **Nicholas Wogan** (2020). Creatio
 
 **Nicholas Wogan** and David Catling (2020). When is chemical disequilibrium in Earth-like planetary atmospheres a biosignature versus an anti-biosignature? Disequilibria from dead to living worlds. *The Astrophysical Journal*. [DOI:10.3847/1538-4357/ab7b81](https://doi.org/10.3847/1538-4357/ab7b81).
 
-<!-- # Conference Abstracts and Talks -->
