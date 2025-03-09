@@ -1,8 +1,8 @@
----
+!---
 title: Publications
 nav: true
 layout: default
----
+!---
 
 # Peer-Reviewed Publications
 
